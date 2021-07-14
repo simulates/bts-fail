@@ -7,7 +7,6 @@
 - [ ]  Custom URL
 - [ ]  Wildcard 
 - [ ]  Custom Embeds
-- [ ]  
 
 ### Email Service
 - [x] Base UI
@@ -18,3 +17,9 @@
 
 ### Discord support server
 - [ ] not done cba to finish
+
+### Frontend
+- [ ] cnr
+
+### Backend
+- [ ] cnr
